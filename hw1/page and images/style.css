@@ -1,0 +1,8 @@
+
+body {
+	background-color:lightblue;
+	margin-left: 0.5in;
+}
+table, td, tr{
+	border: 2px solid black;
+}

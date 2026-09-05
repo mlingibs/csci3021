@@ -1,0 +1,15 @@
+HW #1 - CSCI 3021 - Moon Gibson
+-Short Answer Questions-
+1. What is the difference between <title> and <h1>?
+While they can look the same in the website page, the title shows on the browser tab. While the header exists only on the page that you are viewing.
+
+2. Explain the difference between block-level and inline elements, giving one example of each.
+Block-level elements effect the whole block of code that the tags contain. An example of this would be <p> or <div> tags. 
+In-line elements are ones that only affect the line they are in and usually exist inside the block-level tags. An example of this would be the <b> bold tag.
+
+3. Why do we need to use character entities like &lt; and &gt; in HTML?
+This is because the normal less than '<' and greater than '>' symbols are used for tag indicators in html, so we need to find a way to use those without causing errors. 
+
+4. What is the difference between GET and POST when submitting a form?
+GET retrieves the information or reads. POST is a way of transferring the data to the back-end. 
+
